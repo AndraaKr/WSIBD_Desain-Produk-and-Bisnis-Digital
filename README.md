@@ -2,7 +2,7 @@
 # Source code BKPM Workshop Sistem Informasi Berbasis Dekstop minggu 2-7
 ANGGOTA KELOMPOK DESAIN PRODUK & BISNIS DIGITAL : 
 1. Ahnaf (E41212272) 
-2. Fadlil Liwa Hamdi (E41212079)
+2. Fadlil Liwaul Hamdi (E41212079)
 3. Kennyo Gendis Putri Harli (E41212099)
 4. Rachmadani Anggowo Rizky (E41212201)
 5. Muhammad Andra Kusuma Ramadhan (E41212358)
