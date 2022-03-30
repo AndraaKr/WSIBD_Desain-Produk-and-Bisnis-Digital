@@ -1,7 +1,8 @@
 # WSIBD_Desain-Produk-and-Bisnis-Digital
+# Source code BKPM Workshop Sistem Informasi Berbasis Dekstop minggu 2-7
 KELOMPOK RISET WIRELESS COMMUNICATION: 
-Kennyo Gendis Putri Harli (E41212099) 
-Lya Nurul Ulla (E41211962) 
-Mohammad Dwiky Riza Ardana (E41212003) 
-Fahrizal Arya Wicaksana (E41212224) 
-Lukman (E41212165)
+1. Fadlil Liwa Hamdi (E41212079)
+2. Kennyo Gendis Putri Harli (E41212099) 
+3. Ahnaf (E41212272) 
+4. Muhammad Andra Kusuma Ramadhan (E41212358)
+5. Rachmadani Anggowo Rizky (E41212201)
